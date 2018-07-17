@@ -6,7 +6,7 @@ NOTE: Build2 version: v0.8.0
 1 - Before using these commands
 -------------------------------
 
-1.0 - This reference document is designed to help non-power-users of build2 that need to use it irregularly or need to use it but don't need to do unusual commands.
+1.0 - **This reference document is designed to help non-power-users of build2** that need to use it irregularly or need to use it but don't need to do unusual commands.
 It is not designed for experts.
 
 1.1 - This reference document is **not a replacement** for the [build2 introduction](https://build2.org/build2-toolchain/doc/build2-toolchain-intro.xhtml) or for the [other documentation available on the website](https://build2.org/).
